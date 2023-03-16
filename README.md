@@ -3,7 +3,6 @@ To build a build a page that will make it easier for the new interns to identify
 
 <!DOCTYPE html>
 <html lang="en">
-    <title>Zoo Page</title>
     <This site will build a page that will make it easier for the new interns to identify each animal and understand their needs and behaviors.>
 
 </head>
@@ -15,7 +14,7 @@ To build a build a page that will make it easier for the new interns to identify
 		<h2>1. Bears</h2>
         <!-- Image -->
 			<a href="images/bear.png">
-				<img src="images/bear.png" alt="brown bear" width="100">
+				<img src="bear.png" alt="brown bear" width="100">
 			</a>
             <p>Bears are solitary by nature, except when in family groups of mothers and cubs or in pairs during the mating season.</p>
             <p>Bears may congregate in areas of high food density, such as oak stands, berry patches, or farm fields. When abundant food sources are found across large areas, bears tend to tolerate each other more than usual, mostly because they cannot defend such a rich food source from competitors.</p>
