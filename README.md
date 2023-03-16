@@ -28,7 +28,7 @@ To build a build a page that will make it easier for the new interns to identify
 		<br>
 		<h2>2. Giraffes</h2>
         <a href="images/giraffe.png">
-            <img src="images/giraffe.png" alt="Male giraffe" width="100">
+            <img src="giraffe.png" alt="Male giraffe" width="100">
         </a>
         <p>The giraffe in South Africa live entirely in the Eastern Transvaal, a lowveld region primarily of grass or veld with scattered bushes and low trees. The giraffe browse on a wide variety of trees in the spring and fall when few leaves are available, but in summer when all the trees are in foliage they are much more selective. The giraffe spend most of the day and part of the night feeding, especially the early morning and late afternoon. In the summer when food is abundant, the giraffe have more time during the day to chew their cud and lie down.</p>
 		<!-- List -->
@@ -40,7 +40,7 @@ To build a build a page that will make it easier for the new interns to identify
 		<a href="https://ielc.libguides.com/sdzg/factsheets/giraffes/behavior">Giraffe Facts(link)</a>
 		<br>
         <h2>3. Lions</h2>
-        <a href="images/lion.png">
+        <a href="lion.png">
             <img src="images/lion.png" alt="pair of Lions" width="100">
         </a>
         <p>Lions are highly territorial and occupy the same area for generations. Females actively defend their territories against other females, while resident males protect prides from rival coalitions. Territory size depends on prey abundance, as well as access to water and denning sites.</p>
@@ -53,7 +53,7 @@ To build a build a page that will make it easier for the new interns to identify
 		<a href="https://cbs.umn.edu/lion-research-center/all-about-lions/social-behavior#:~:text=Lions%20are%20highly%20territorial%20and,to%20water%20and%20denning%20sites.">Lion Facts (link)</a>
 		<br>
         <h2>4. Monkeys</h2>
-        <a href="images/monkey.png">
+        <a href="monkey.png">
             <img src="images/monkey.png" alt="Monkey mama and baby" width="100">
         </a>
         <p>Like us, monkeys form strong friendships and bitter rivalries. They fight for each other and take care of one another. And the leader of a monkey troop, when deposed, will even exhibit signs of depression. When we watch their behavior we get the sense that their emotional lives may share something in common with our own.</p>
@@ -68,7 +68,7 @@ To build a build a page that will make it easier for the new interns to identify
 		<br>
         <h2>5. Alligators</h2>
 		<!-- List -->
-        <a href="images/alligator.png">
+        <a href="alligator.png">
             <img src="images/alligator.png" alt="Pair of Alligators" width="100">
         </a>
         <p>American alligators are large crocodilians found only in the United States. They can grow to be more than 12 feet (3.6 meters) in length and weigh as much as 1,000 pounds (450 kilograms), with males being slightly larger than females on average. The animal’s dark skin is armored with small, bony scales called scutes.</p>
